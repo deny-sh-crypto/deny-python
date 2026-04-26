@@ -8,15 +8,13 @@ version = "1.0.0"
 description = "Deniable encryption — AES-256 with plausible deniability via control files"
 readme = "README.md"
 license = "AGPL-3.0-only"
-requires-python = ">=3.8"
+requires-python = ">=3.10"
 authors = [{ name = "deny.sh", email = "hello@deny.sh" }]
 keywords = ["encryption", "deniable", "aes", "cryptography", "plausible-deniability"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: Developers",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.8",
-    "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
